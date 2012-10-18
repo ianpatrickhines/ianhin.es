@@ -11,7 +11,7 @@
                         <h2 class="title"><a href="http://ianhin.es"><?php bloginfo('name'); ?></a></h2>
                     </header>
 
-                    <p class="byline">Catholic. Father. Geek.</p>
+                    <p class="byline">Do Good Through Design</p>
 
                     <nav role="navigation">
                         <ul>
