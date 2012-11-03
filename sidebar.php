@@ -11,7 +11,7 @@
                         <h2 class="title"><a href="http://ianhin.es"><?php bloginfo('name'); ?></a></h2>
                     </header>
 
-                    <p class="byline">Do Good Through Design</p>
+                    <p class="byline">Organizer at <a href="http://nationbuilder.com">NationBuilder</a>. Recovering Politico. <a href="http://www.nytimes.com/2008/03/21/opinion/21brooks.html">Thoroughly Modern Do-Gooder</a>.</p>
 
                     <nav role="navigation">
                         <ul>                        

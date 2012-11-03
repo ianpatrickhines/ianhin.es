@@ -11,7 +11,7 @@ Template Name: Colophon
 get_header(); ?>
 <?php get_sidebar(); ?>
 
-<div class="eight columns offset-by-two archive" id="content">
+<div class="nine columns offset-by-one archive" id="content">
 	<article class="article permalink" id="about">
         <header>       
 		<h2>Colophon</h2>

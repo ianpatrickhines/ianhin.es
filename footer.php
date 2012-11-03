@@ -1,4 +1,4 @@
-<footer class="eight columns offset-by-two" id="copyright">
+<footer class="nine columns offset-by-one" id="copyright">
     
     <form method="get" class="search" id="searchbox" action="http://www.google.com/search">
     	<fieldset>
@@ -10,8 +10,7 @@
 	     </fieldset>
 	</form>   
 
-        <p>Copyright &copy; 2012&ndash;Present <a href="http://whois.ianhin.es">Ian Patrick Hines</a>. All Rights Reserved.</p>
-        <p><a href="http://blarnify.com">Made by Blarnify</a>. <a href="http://wordpress.org">Powered by WordPress</a>.</p>
+        <p>Copyright &copy; 2012&ndash;Present <a href="http://whois.ianhin.es">Ian Patrick Hines</a>. All Rights Reserved. <a href="http://wordpress.org">Powered by WordPress</a>.</p>
     </footer>
 
     <div class="five columns offset-by-one">
