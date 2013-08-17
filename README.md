@@ -34,7 +34,7 @@ If you intend to use Symbolset fonts in your own iteration of The Personal Page,
 
 Regard the API Keys in the Code:
 
-At various points in the various template files contained in this repository, my bit.ly API code is exposed. Typically, in cases where API keys were involved in code I would keep the repository private. But in this case, I wanted the code for my site to be publicly available without having to wipe it clean. So here we are.
+At various points in the various template files contained in (older version of) this repository, my bit.ly API code is exposed. Typically, in cases where API keys were involved in code I would keep the repository private. But in this case, I wanted the code for my site to be publicly available without having to wipe it clean. So here we are.
 
 You are not, under any circumstances, to use the code in this repository without first removing these API keys or replacing them with your own. 
 
@@ -55,3 +55,8 @@ v3.2
 - Reverted to original design
 - Decided to undertake an iterative approach, rather than a wholesale redesign.
 - Updated README to include additional permissions / conditions of use.
+
+v3.3
+- Removed bit.ly API keys
+- Updated sidebar
+- Other minor adjustments
