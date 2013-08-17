@@ -10,7 +10,7 @@
 	     </fieldset>
 	</form>   
 
-        <p>Copyright &copy; 2012&ndash;Present <a href="http://whois.ianhin.es">Ian Patrick Hines</a>. All Rights Reserved. <a href="http://wordpress.org">Powered by WordPress</a>.</p>
+        <p>Copyright &copy; 2009&ndash;Present <a href="http://whois.ianhin.es">Ian Patrick Hines</a>. All Rights Reserved.</p>
     </footer>
 
     <div class="five columns offset-by-one">
@@ -20,20 +20,7 @@
     ================================================== -->
     <script src="http://code.jquery.com/jquery-1.7.1.min.js" type="text/javascript">
 </script><script src="javascripts/tabs.js" type="text/javascript">
-</script><!-- Gaug.es -->
-    <script type="text/javascript">
-var _gauges = _gauges || [];
-    (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '502dc1f2f5a1f5259e000034');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-    })();
-    </script>
+</script>
 
 <!-- <script type="text/javascript">// When ready...
 window.addEventListener("load",function() {

@@ -17,14 +17,14 @@ get_header(); ?>
 		<h2>Colophon</h2>
         </header>
         
-        <p><img src="http://d.pr/i/4kCi+" alt="Photo: Ian Patrick Hines" /></p>
+        <p><img src="http://d.pr/i/XjVH/GAUMAr7B+" alt="Photo: Ian Patrick Hines" /></p>
         
-        <p>My name is Ian Patrick Hines, and I live in Cypress, Texas with my wife Christy and our two children, Oliver &amp; Moira. </p>              
-		
-		<p>I've been writing an eponymous weblog since 2009, and I am very interested in character, excellence and how the principles of design can be applied in pursuit of the greater good.</p>
+        <p>My name is Ian Patrick Hines, and I live in Los Angeles, California with my wife Christy and our two children, Oliver &amp; Moira.</p>
 
-		<p>More than anything else, I love to pursue elegant solutions to complex problems within a given set of constraints and with limited resources.</p>		
+		<p>I've been writing an eponymous weblog since 2009. It's not really&nbsp;<em>about</em>&nbsp;anything, strictly speaking, but I tend to focus on faith, politics and technology. In 2013, I'm aiming to add parenting to that mix, as well.</p>
 		
+		<p>I am the founder and principal author of <a href="http://catholicnation.org?recruiter_id=2">Catholic Nation</a>, a home for Catholics online.</p>
+
 		<p>You can follow me on Twitter, <a href="https://twitter.com/intent/user?screen_name=ianpatrickhines">here</a>.</p>
 		
 		<h2>The Site</h2>
@@ -37,7 +37,7 @@ get_header(); ?>
             <h2>Contact</h2>
         </header>
 
-        <p>Please, feel free to contact me on <a href="http://twitter.com/intent/tweet?text=@ianpatrickhines">Twitter</a> or by email at <a href="mailto:hello@ianpatrickhines.com">hello@ianpatrickhines.com</a>.</p>
+        <p>Please, feel free to contact me on <a href="http://twitter.com/intent/tweet?text=@ianpatrickhines">Twitter</a> or by email at <a href="mailto:me@ianpatrickhines.com">me@ianpatrickhines.com</a>.</p>
         
         <p>I respond to every email I receive, though it may take some time. Please be patient and know that I really do appreciate that you took the time to write.</p>
 	</article>

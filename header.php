@@ -12,22 +12,24 @@
     <meta charset="utf-8">
 
     <title><?php wp_title('|',true,'right'); ?><?php bloginfo('name'); ?></title>
+    
+    <meta http-equiv="refresh" content="url=http://ianpatrickhin.es">
+    
 	<meta name="description" content="<?php bloginfo('description'); ?>" />
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
     <meta name="text:Search Label" content="" />
-    <script type="text/javascript" src="http://static.tumblr.com/p2evvtm/Wycm17d1m/tumblr_search_box.js"></script>
 
     <link rel="stylesheet" href="http://static.ianpatrickhines.com/css/base.css" type="text/css">
     <link rel="stylesheet" href="http://static.ianpatrickhines.com/css/skeleton.css" type="text/css">
     <link rel="stylesheet" href="http://static.ianpatrickhines.com/css/layout.css" type="text/css">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.feedburner.com/ianpatrickhines" />
-    <link href="http://static.ianpatrickhines.com/webfonts/ss-social.css" rel="stylesheet" type="text/css">
-    <link href="http://static.ianpatrickhines.com/webfonts/ss-standard.css" rel="stylesheet" type="text/css">
+    <link href="../webfonts/ss-social2.css" rel="stylesheet" type="text/css">    
+    <link href="../webfonts/ss-standard.css" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" type="image/x-icon" href="http://static.ianpatrickhines.com/favicon.ico">
 
-    <script src="http://mint.ianpatrickhines.com/mint/?js" type="text/javascript"></script>
+	<script src="/mint/?js" type="text/javascript"></script>
     <script type="text/javascript" src="//use.typekit.net/dur4kqh.js"></script>
     
     <!--[if lt IE 9]>
