@@ -1,0 +1,72 @@
+/* ================================== 
+	Controls the widths of the layers
+===================================== */
+
+.grater-container {
+	width:640px;
+	margin:0 auto;
+}
+
+@media all and (max-width: 660px) {
+	.grater-container{
+		width:300px;
+	}
+}
+
+.grater {
+	zoom:1;
+}
+
+.grater > div {
+	width:300px;
+	margin:0 0 2em;
+}
+
+/* ============================= 
+	Controls how the divs float 
+================================ */
+
+.grater > div:first-child {
+	float:left;
+}
+
+.grater > div:last-child{
+	float:right;
+}
+
+.grater.reverse > div:first-child {
+	float:right;
+}
+
+.grater.reverse > div:last-child {
+	float:left; 
+}
+
+.grater:before, .grater:after {
+	content:"";
+	display:table;
+}
+
+/* ============================= 
+	Clears the floats 
+================================ */
+
+.grater:after {
+	clear:both;
+}
+
+/* ============================= 
+	Clears the floats on mobile
+================================ */
+
+@media all and (max-width: 660px){
+
+	.grater{
+		margin-bottom:1em;
+	}
+
+	.grater > div {
+		float:none !important;
+		margin:0 auto 2em;
+	}
+}
