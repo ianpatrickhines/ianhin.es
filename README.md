@@ -1,43 +1,17 @@
 =============================
 
 ianhin.es
-Version 3.2
-October 18, 2012
+Version 4.0
+August 19, 2013
 Created by Ian Patrick Hines
 Original: http://ianhin.es
-License: Creative Commons Attribution-ShareAlike 3.0 Unported License http://creativecommons.org/licenses/by-sa/3.0/
+License: The MIT License (MIT) (See LICENSE.markdown)
 
 =============================
-
-ianhin.es by Ian Patrick Hines is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
-Based on a work at http://github.com/ianpatrickhines/ianhin.es.
-
-Permissions beyond the scope of this license may be available at https://github.com/ianpatrickhines/ianhin.es/blob/master/README.md.
 
 =============================
 ADDITIONAL PERMISSIONS
 =============================
-
-### 
-
-Regarding the Symbolset Font:
-
-This version of The Personal Page makes use of Symbolset (http://symbolset.com). 
-
-Symbolsets are semantic symbol fonts. They work in modern browsers and anywhere OpenType features are supported.
-
-The use of Symbolset's fonts is governed by their product license, which can be found here: http://symbolset.com/license/
-
-If you intend to use Symbolset fonts in your own iteration of The Personal Page, you must purchase your own license from http://symbolset.com. They're quite affordable, and are well worth the money.
-
-###
-
-Regard the API Keys in the Code:
-
-At various points in the various template files contained in (older version of) this repository, my bit.ly API code is exposed. Typically, in cases where API keys were involved in code I would keep the repository private. But in this case, I wanted the code for my site to be publicly available without having to wipe it clean. So here we are.
-
-You are not, under any circumstances, to use the code in this repository without first removing these API keys or replacing them with your own. 
-
 
 =============================
 Change Notes:
@@ -60,3 +34,6 @@ v3.3
 - Removed bit.ly API keys
 - Updated sidebar
 - Other minor adjustments
+
+v4.0
+- Whole new design
