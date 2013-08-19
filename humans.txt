@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ian Patrick Hines -- Designer + Developer -- @ianpatrickhines
+
+# THANKS
+
+    Sam Soffes (http://soff.es) for Grater (https://github.com/soffes/grater).    
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery
