@@ -1,14 +1,47 @@
 /* ================================== 
-	basic, global values
+	Positioning
+===================================== */
+
+/* see assets/grater.css */
+
+/* ================================== 
+	Display & Box Model
+===================================== */
+
+@media all and (max-width: 660px) {
+	
+	section {
+      padding: 40px 10px; 
+	}
+	
+	.grater {
+		text-align: center; 
+	}
+	
+	.grater > div {
+		height: auto !important; 
+	}
+    
+	.grater > div:first-child {
+		margin-bottom: 3em; 
+	}
+    
+}
+
+#about, section, footer {
+	padding: 50px 0;
+}
+
+#about, footer {
+	margin: 0 auto;	
+}
+
+/* ================================== 
+	Background & Typography Styles
 ===================================== */
 
 body { /* Sets site-wide font */
 	font-family: 'Open Sans', sans-serif; 
-}
-
-a { /* Sets smooth hover transitions */
-	transition: border-bottom .2s;
-	-webkit-transition: border-bottom .2s; /* Safari */
 }
 
 mark { /* Creates the 'highlight' effect. */
@@ -18,48 +51,7 @@ mark { /* Creates the 'highlight' effect. */
     color: #21272d; 
 }
 
-@media all and (max-width: 660px) {
-	
-	section {
-      padding: 40px 10px; 
-	}
-	
-	header div.grater, section div.grater {
-		text-align: center; 
-	}
-	
-	section div.grater > div {
-		height: auto !important; 
-	}
-    
-	section div.grater > div:first-child {
-		margin-bottom: 3em; 
-	}
-    
-}
-
-section a.logo {
-	color: transparent;
-	font: 0/0 a;
-	text-shadow: none;
-	width: 300px;
-	height: 300px;
-	display: block;
-	background: url("ian.png") no-repeat;
-	background-size: 300px 300px;
-	margin: 0 auto 1em;
-	border-bottom: 0px;
-}
-
-/* ================================== 
-	Sections
-===================================== */
-
-header, section, footer {
-	padding: 50px 0;
-}
-
-header p, section p {
+p {
 	font-size: 20px;
 	line-height: 1.4em;
 }
@@ -68,129 +60,132 @@ p.small {
 	font-size: 1em;
 }
 
-header, footer {
-	margin: 0 auto;	
-}
-
 footer {
 	text-align: center;
 }
 
-/* ================================== 
-	header
-===================================== */
+a {
+	text-decoration: none;
+}
 
-header {
+#about {
 	background-color: #6D9DBF; 	
 	color: #fff;
 }
 
-header a {
+#about a {
 	color: #326F88;
-	text-decoration: none;
-	border-bottom: 0px solid #6D9Dbf;
+	border-bottom: #6D9Dbf;
 }
 
-header a:hover {
-	border-bottom: 1px solid #326F88;
+#about a:hover {
+	border-bottom: #326F88;
 }
 
-header a.profile span.photo {
-      width: 300px;
-      height: 300px;
-      display: block;
-      background: url("ian.png") no-repeat;
-      background-size: 300px 300px;
-      margin: 0 auto 1em;
-}
-
-@media all and (max-width: 660px) {
-	header h1 {
-		font-size: 1.6em;
-	}
-}
-
-/* ================================== 
-	nationbuilder
-===================================== */
-
-section#nationbuilder {
+#nationbuilder {
 	background-color: #63b3d0; 	
 	color: #fff;
 }
 
-section#nationbuilder p a {
-	color: #007F9E;
-	text-decoration: none;
-	border-bottom: 1px solid transparent;
+#nationbuilder a {
+	color: #007F9E;	
 }
 
-section#nationbuilder p a:hover {
-	border-bottom: 1px solid #007F9E;
+#nationbuilder a:hover {
+	border-bottom: #007F9E;
 }
 
-section#nationbuilder a.logo {
-    background-image: url("nb.png"); 
-}
-
-/* ================================== 
-	maryland
-===================================== */
-
-section#maryland {
+#maryland {
 	background-color: #EB3F3B; 	
 	color: #fff;
 }
 
-section#maryland a.logo {
-    background-image: url("md.png"); 
-}
-
-section#maryland p a {
+#maryland a {
 	color: #262626;
-	text-decoration: none;
-	border-bottom: 1px solid transparent;
 }
 
-section#maryland p a:hover {
-	border-bottom: 1px solid #262626;
+#maryland a:hover {
+	border-bottom: #262626;
 }
 
-/* ================================== 
-	baltimore
-===================================== */
-
-section#baltimore {	
+#baltimore {	
 	color: #444;
 }
 
-section#baltimore a.logo {
-    background-image: url("baltimore.png"); 
-}
-
-section#baltimore p a {
+#baltimore a {
 	color: #e5c04b;
-	text-decoration: none;
-	border-bottom: 1px solid transparent;
 }
 
-section#baltimore p a:hover {
-	border-bottom: 1px solid #e5c04b;
+#baltimore a:hover {
+	border-bottom: #e5c04b;
 }
 
-/* ================================== 
-	Footer
-===================================== */
+#about p a,
+#nationbuilder p a,
+#maryland p a,
+#baltimore p a {
+	border-bottom: 0px solid transparent;
+}
+
+#about p a:hover,
+#nationbuilder p a:hover,
+#maryland p a:hover,
+#baltimore p a:hover {
+	border-bottom: 1px solid;
+}
 
 footer {
 	background-color: #6D9DBF;
 	color: #fff;
-	font-size: .9em;	
+}
+
+.small {
+	font-size: .9em;
 }
 
 
 /* ================================== 
-	miscellaneous
+	Transitions
 ===================================== */
 
-/* green: #90a774; */
+a { /* Sets smooth hover transitions */
+	transition: border .2s;
+	-webkit-transition: border .2s; /* Safari */
+}
+
+/* ================================== 
+	Other
+===================================== */
+
+.photo {
+	width: 300px;
+	height: 300px;
+	display: block;
+	background: url("ian.png") no-repeat;
+	background-size: 300px 300px;
+	margin: 0 auto 1em;
+}
+
+.logo {
+	color: transparent;
+	font: 0/0 a;
+	text-shadow: none;
+	width: 300px;
+	height: 300px;
+	display: block;
+	background-size: 300px 300px;
+	margin: 0 auto 1em;
+	border-bottom: 0px;
+}
+
+#nationbuilder .logo {
+    background-image: url("nb.png"); 
+}
+
+#maryland .logo {
+    background-image: url("md.png"); 
+}
+
+#baltimore .logo {
+    background-image: url("baltimore.png"); 
+}
