@@ -41,7 +41,7 @@
 ===================================== */
 
 body { /* Sets site-wide font */
-	font-family: 'Open Sans', sans-serif; 
+	font-family: 'Avenir Next', 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif; 
 }
 
 mark { /* Creates the 'highlight' effect. */
@@ -137,6 +137,10 @@ a {
 footer {
 	background-color: #6D9DBF;
 	color: #fff;
+}
+
+footer a {
+	color: inherit;
 }
 
 .small {

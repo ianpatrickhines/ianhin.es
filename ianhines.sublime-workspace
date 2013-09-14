@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"one",
+				"onecolumn-container"
+			],
+			[
+				"foote",
+				"footer-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-imag",
+				"border-image-width"
+			],
+			[
+				"border-im",
+				"border-image-slice"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
 				"bord",
 				"border-bottom"
 			],
@@ -43,6 +107,50 @@
 		"selected_items":
 		[
 			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"liqu",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
 				"pack",
 				"Preferences: Browse Packages"
 			]
@@ -64,14 +172,51 @@
 	},
 	"file_history":
 	[
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/layout.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_columns_2.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_supporter_nav.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_user_session_form.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/tablet-and-desktop.scss",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/theme.scss",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/pages_show_suggestion.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_page_tags.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_blog_latest.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/pages_show_blog.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_columns_1.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/pages_show_blog_wide.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/humans.txt",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/readme.markdown",
+		"/Users/nbadmin/Desktop/unsubscribe.html",
+		"/Users/nbadmin/Desktop/google_analytics_custom_variable.html",
+		"/Users/nbadmin/Desktop/google analytics custom variable.html",
+		"/Users/nbadmin/Dropbox/Personal/Sites/static.ianpatrickhines.com/intrvws/style.css",
+		"/Users/nbadmin/Desktop/test.html",
+		"/Users/nbadmin/Desktop/test2.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/blog.liquid",
+		"/Users/nbadmin/Dropbox/Personal/Github/nationbuilder-bootstrap/navbar.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/nationbuilder-bootstrap/index.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/nationbuilder-bootstrap/js/bootstrap.min.js",
+		"/Users/nbadmin/Dropbox/Personal/Github/nationbuilder-bootstrap/css/navbar.css",
+		"/Users/nbadmin/Desktop/wolfpac.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/liquid-snippets/parent-slug.liquid",
+		"/Users/nbadmin/Desktop/ianpatrickhines.wordpress.2013-08-22.xml",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/style.css",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/_layout.liquid",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/index.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/post.liquid",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/post.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/grater.css",
+		"/Users/nbadmin/Dropbox/Personal/Github/liquid-snippets/replace.liquid",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/index2.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/normalize.css",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/assets/style.css",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/ianhines.sublime-workspace",
 		"/Users/nbadmin/Dropbox/Web Development/Sites/ianhin.es Theme/start.php",
 		"/Users/nbadmin/Dropbox/Web Development/Sites/ianhin.es Theme/loop.php",
 		"/Users/nbadmin/Dropbox/Web Development/Sites/ianhin.es Theme/htaccess.htm",
 		"/Users/nbadmin/Desktop/teamtreehouse/simple_website.html",
 		"/Users/nbadmin/Desktop/teamtreehouse/bakin/index.html",
 		"/Users/nbadmin/Desktop/simple_website.html",
-		"/Users/nbadmin/Desktop/test.html",
-		"/Users/nbadmin/Desktop/test2.html",
 		"/Users/nbadmin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/nbadmin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/nbadmin/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings"
@@ -85,6 +230,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -92,6 +238,59 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"typekit",
+			"donation",
+			"secure",
+			"#f8f8f8",
+			"f8f8f8",
+			"pagination",
+			"DDD",
+			"#DDD",
+			"#ddd",
+			"#888",
+			"breadcrum",
+			"breadcrums",
+			"f3f3f3",
+			"ebebeb",
+			"breadcrumbs",
+			"color",
+			"hover",
+			"javascript",
+			"form",
+			"font-family: Arial, Helvetica, sans-serif;",
+			"aeras",
+			"<li class=\"answer\">",
+			"<li class=\"question\">",
+			"<em>",
+			"</em>",
+			"<em>",
+			"<li class=\"answer\">",
+			"</li>\n\n	<li class=\"answer\">",
+			"<li class=\"question\">",
+			"<li class=\"answer\">",
+			"</li>\n\n	<li class=\"answer\">",
+			"</li>\n\n	<li class=\"question\">",
+			"</li>\n\n	<li class=\"answer\">",
+			"<li class=\"question\">",
+			"</ul>",
+			"</li>\n\n	<li class=\"answer\">",
+			"</li>\n\n	<blockquote>",
+			"</blockquote>\n\n	<li class=\"answer\">",
+			"<li class=\"question\">",
+			"<ul>",
+			"</em>",
+			"<em>",
+			"<li class=\"question\">",
+			"li class=\"answer\"",
+			">home<",
+			"<mark>",
+			">Home<",
+			"<mark>",
+			"</mark>",
+			"<mark>",
+			"analytics",
+			"<article class=\"grater-container\">",
+			"grater-container grater",
 			"articles",
 			"simple",
 			"		\n",
@@ -107,6 +306,29 @@
 		"regex": false,
 		"replace_history":
 		[
+			"#ECF0F1",
+			"#95a5a6",
+			"ecf0f1",
+			"",
+			"<blockquote>",
+			"",
+			"<blockquote>",
+			"",
+			"<blockquote>",
+			"</blockquote>",
+			"<blockquote>",
+			"",
+			"</blockquote>",
+			"<blockquote>",
+			"</blockquote>",
+			"<blockquote>",
+			"",
+			"blockquote",
+			"<em>",
+			"</em>",
+			"<em>",
+			"<article>",
+			"grater-container"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -155,7 +377,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -163,6 +385,70 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"supp",
+				"_supporter_nav.html"
+			],
+			[
+				"form",
+				"_user_session_form.html"
+			],
+			[
+				"colum",
+				"_columns_2.html"
+			],
+			[
+				"lay",
+				"layout.html"
+			],
+			[
+				"scss",
+				"tablet-and-desktop.scss"
+			],
+			[
+				"page_t",
+				"_page_tags.html"
+			],
+			[
+				"suggest",
+				"pages_show_suggestion.html"
+			],
+			[
+				"them",
+				"theme.scss"
+			],
+			[
+				"theme",
+				"theme.scss"
+			],
+			[
+				"blog",
+				"_blog_latest.html"
+			],
+			[
+				"column",
+				"_columns_1.html"
+			],
+			[
+				"",
+				"_blog_latest.html"
+			],
+			[
+				"layout",
+				"layout.html"
+			],
+			[
+				"l",
+				"layout.html"
+			],
+			[
+				"po",
+				"post.html"
+			],
+			[
+				"st",
+				"style.css"
+			],
 			[
 				"start",
 				"start.php"
@@ -190,6 +476,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 388.0,
 	"status_bar_visible": true
 }
