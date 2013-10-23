@@ -44,6 +44,10 @@ body { /* Sets site-wide font */
 	font-family: 'Avenir Next', 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif; 
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
 mark { /* Creates the 'highlight' effect. */
     background-color: #fdffb6;
     padding: 2px;

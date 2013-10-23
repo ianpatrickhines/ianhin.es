@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
 				"border-c",
 				"border-color"
 			],
@@ -18,10 +22,6 @@
 			[
 				"text",
 				"text-decoration"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"fon",
@@ -103,9 +103,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 167.0,
 		"selected_items":
 		[
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
 			[
 				"tag",
 				"Tag: Auto-Format Tags on Document"
@@ -135,10 +139,6 @@
 				"Set Syntax: HTML"
 			],
 			[
-				"wr",
-				"Word Wrap: Toggle"
-			],
-			[
 				"java",
 				"Set Syntax: JavaScript"
 			],
@@ -155,7 +155,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 575.0
+		"width": 476.0
 	},
 	"console":
 	{
@@ -172,6 +172,8 @@
 	},
 	"file_history":
 	[
+		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/index.html",
+		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/assets/style.css",
 		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/layout.html",
 		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_columns_2.html",
 		"/Users/nbadmin/Dropbox/Personal/Github/ianpatrickhines-5218337c8ed5f07127000002/_supporter_nav.html",
@@ -209,7 +211,6 @@
 		"/Users/nbadmin/Dropbox/Personal/Github/liquid-snippets/replace.liquid",
 		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/index2.html",
 		"/Users/nbadmin/Dropbox/Personal/Github/by.ianhin.es/normalize.css",
-		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/assets/style.css",
 		"/Users/nbadmin/Dropbox/Personal/Github/ianhin.es/ianhines.sublime-workspace",
 		"/Users/nbadmin/Dropbox/Web Development/Sites/ianhin.es Theme/start.php",
 		"/Users/nbadmin/Dropbox/Web Development/Sites/ianhin.es Theme/loop.php",
