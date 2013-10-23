@@ -1,12 +1,15 @@
 #ianhin.es (Version 4.0)
 Created by Ian Patrick Hines
 
-*August 19, 2013*
+*October 23, 2013*
 
 Original: [ianhin.es](http://ianhin.es)
 License: The MIT License (MIT) (See LICENSE.markdown)
 
 ##Change Notes:
+
+###v4.1
+- Modified to run on NationBuilder
 
 ###v4.0
 - Whole new design
